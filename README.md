@@ -127,7 +127,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ### 3. Open in browser
-http://localhost:8501
+https://vehicle-vibration-analysis-nvh-fault-detection-system-vvrjefz5.streamlit.app/
 
 ---
 
